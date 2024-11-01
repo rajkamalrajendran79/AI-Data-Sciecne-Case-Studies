@@ -16,6 +16,15 @@ Key Topics: Data Cleaning, Handling Missing Values, Outlier Detection
 
 Dataset: Kaggle’s Hotel Booking Demand
 
+2. [Case Study: Text Analysis for Amazon Customer Reviews]
+   
+Objective: Analyze Amazon customer reviews to gain insights into customer sentiment, identify key topics, and extract important keywords. 
+
+Key Topics: Sentiment Analysis, Keyword Extraction, Topic Modeling
+
+Dataset: Kaggle’s Amazon Fine Food Reviews dataset
+
+app.py: Streamlit app script for interactive analysis of new reviews.
 
 💡 Contributing
 You are welcome to contribute tio this repsoitories. 
