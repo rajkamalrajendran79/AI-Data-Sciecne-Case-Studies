@@ -8,7 +8,7 @@ Each case study is organized in its own jupyter notebook with a structured appro
 notebooks/: Jupyter notebooks with detailed code, markdown, and visualizations.
 
 📄 Case Study Summaries
-1. [Case Study Title: e.g., Hotel Booking Demand Analysis]
+1. [Case Study: Hotel Booking Demand Analysis]
 Objective: Address data cleaning and preparation steps for a hotel booking dataset to ensure data reliability for further analysis.
 Key Topics: Data Cleaning, Handling Missing Values, Outlier Detection, Feature Engineering
 Dataset: Kaggle’s Hotel Booking Demand
