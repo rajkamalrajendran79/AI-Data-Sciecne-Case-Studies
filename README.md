@@ -24,7 +24,7 @@ Key Topics: Sentiment Analysis, Keyword Extraction, Topic Modeling
 
 Dataset: Kaggle’s Amazon Fine Food Reviews dataset
 
-app.py: Streamlit app script for interactive analysis of new reviews.
+Streamlit app: interactive analysis of new reviews.
 
 💡 Contributing
 You are welcome to contribute tio this repsoitories. 
